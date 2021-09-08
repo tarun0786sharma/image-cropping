@@ -1,1 +1,0 @@
-web: gunicorn tarun_sharma.wsgi
